@@ -1,0 +1,11 @@
+A partire da una base dati creare un programma che simuli una partita a freccette.
+All'avvio il programma dovrà chiedere se si vuole inserire un nuovo giocatore e nel caso 
+chiedere nome e cognome (stampare l'id/numero di tessera ottenuto), in alternativa 
+inserire l'id/numero di tessera del giocatore da far giocare.
+Il programma dovrà:
+    -Creare e aggiungre un giocatore
+    -Simulare giocata (5 lanci x 3 set)
+    -Calcolare punteggio (da 0 a 10 per ogni lancio)
+    -Creare una classifica
+    -Stampare la classifica aggiornata
+    -Aggiornare i file della classifica in HTML e PDF
